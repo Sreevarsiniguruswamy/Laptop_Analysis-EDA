@@ -1,4 +1,4 @@
-# Laptop Data Analysis   
+# LAPTOP DATA ANALYSIS  
 A comprehensive exploratory data analysis (EDA) project that examines laptop data to uncover insights into trends, pricing, specifications, and performance metrics.  
 
 ## Features  
