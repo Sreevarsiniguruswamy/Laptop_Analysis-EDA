@@ -1,4 +1,4 @@
-# Laptop Data Analysis using EDA in Python  
+# Laptop Data Analysis   
 A comprehensive exploratory data analysis (EDA) project that examines laptop data to uncover insights into trends, pricing, specifications, and performance metrics.  
 
 ## Features  
